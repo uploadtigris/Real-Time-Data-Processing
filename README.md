@@ -4,7 +4,7 @@ Real-Time Data Processing with Kafka + Spark Streaming + Python
 ## Stage 1: Data Ingestion
 
 #### Tools: Kafka + Python
-#### Purpose: Fetch stock prices/news/tweets. Stream raw data into topics.
+#### Purpose: Fetch stock prices/news. Stream raw data into topics.
 
 ## Stage 3: Real-time Processing
 
