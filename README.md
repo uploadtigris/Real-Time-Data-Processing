@@ -1,5 +1,6 @@
 # Real-Time-Data-Processing
 Real-Time Data Processing with Kafka + Spark Streaming + Python
+** Work in progress! **
 
 ## Stage 1: Data Ingestion
 
